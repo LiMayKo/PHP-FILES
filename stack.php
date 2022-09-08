@@ -1,6 +1,7 @@
 <?php 
  class StackAtts
  {
+  
   public $element;
   public $next;
   public function __construct($element, $next)
